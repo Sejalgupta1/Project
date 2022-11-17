@@ -1,0 +1,159 @@
+.wrap{
+    background: url("https://saxonianfolkways.files.wordpress.com/2013/08/shree_rudram.jpg");  
+}
+.logo{
+    margin-left: 30px;
+}
+.navbar{
+    background-color: #393e41;
+    padding: 20px;
+}
+.nav-item a{ 
+    font-size: 19px;
+    color: #fff;
+}
+.navbar-nav{
+    padding-left: 422px;
+}
+.text{
+    position: relative;
+    bottom: 50%;
+}
+.text h2{
+    padding-left: 20px;
+    font-size: 50px;
+    color: #fff;
+}
+.text h3{ 
+    font-size: 30px;
+    color: #fff;
+}
+.cell img{
+    width: 100%;
+}
+.lorem{
+    margin: 0 211px;
+}
+.topFooter{
+    background-color: #ffbf00;
+    padding: 40px;
+}
+.bottom_footer{
+    background-color: #393e41;
+    padding: 30px;
+}
+.list{
+    display: flex;
+    justify-content: center;
+}
+.list li{
+    list-style-type: none;
+    color: #fff;
+    font-size: 19px;
+    margin-left: 14px;
+    text-transform: uppercase;
+}
+.cell span{
+    color: #fff;
+    font-size: 19px;
+    text-align: center;
+    padding-left: 75px;
+}
+.content{
+    background-color: #dee0e0;
+    padding: 60px ;
+}
+.cell_info img{
+    width: 100%;
+    max-width: 450px;
+}
+ 
+.bg h3{
+font-size: 35px;
+}
+.bg p{
+    font-size: 19px;
+    margin-right: 50px;
+}
+.bg a{
+    text-decoration: none;
+display: block;
+width: 200px;
+height: 40px;
+border: 1px solid #008dd5;
+font-size: 18px;
+text-transform: uppercase;
+text-align: center;
+padding: 7px 0;
+}
+.card-title{
+    color: #fff;
+    font-size: 20px;
+}
+.card-text{
+    color: #fff;
+    font-size: 15px;
+}
+.heading{
+    font-size: 30px;
+    margin: 30px 0;
+}
+.card{
+    padding: 30px 0;
+}
+.Faq p{
+    margin: 0 30px;
+}
+.Faq h4{
+    margin: 0 30px;
+}
+.search{
+    background-color: #164194;
+    padding: 20px 0;
+    margin-top: -69px;
+}
+.form{
+    width: 400px;
+    padding: 7px;
+}
+.bii{
+    margin-left: -31px;
+}
+@media only screen and (max-width: 768px) {
+    .lorem {
+        margin: 0 ;
+      }
+      .card{
+        margin-bottom: 10px;
+      }
+      .bg{
+        text-align: center;
+      }
+      .bg p{
+        text-align: center;
+        margin: 20px 0;
+        font-size: 17px;
+      }
+      .bg a {
+        margin-bottom: 15px;
+        margin-left: 71px;
+      }
+       .info{
+        text-align: center;
+       }
+       .cell{
+        text-align: center;
+       }
+       .list {
+       flex-direction: column;
+       margin-top: 15px;
+    }
+    .list li{ 
+        margin: 0;
+     }
+     .cell span{ 
+        padding: 0;
+     }
+       
+  }
+   
